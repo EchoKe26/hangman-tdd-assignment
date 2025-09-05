@@ -1,0 +1,20 @@
+hello world
+unit testing
+software development
+artificial intelligence
+machine learning
+data structures
+programming languages
+web development
+mobile applications
+cloud computing
+cyber security
+database management
+version control
+agile methodology
+test driven development
+continuous integration
+object oriented programming
+functional programming
+software engineering
+quality assurance
